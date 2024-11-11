@@ -21,3 +21,10 @@ As part of Georgia Tech’s Teams for Tech Fellowship, I designed and developed 
 #### 📱 Dart Frontend: Engaging, functional designs implemented with Dart for a seamless experience on campus apps  
 [FlutterFlow](https://app.flutterflow.io/preview/skill-bridge-bzgd3e?page=intro) front end design (scroll on the app)  
 #### User Insights & Testing: Developed with continuous user feedback to maximize functionality and usability  
+
+
+## Data Visualization🌱🌱
+
+I modeled hundreds of thousands of reactions on Excel as part of high-performance computing research focused on environmental sustainability. This experience involved extensive data analysis and optimization, showcasing my skills in managing complex datasets and leveraging computational techniques.
+
+[SuperComputing Data](https://github.com/samcarozzi/High-Performance-Computing-Research) Contains visualizations of reactions occurring on an atomic scale and representations of quantum calculations organized and calculated in Excel
